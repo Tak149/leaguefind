@@ -38,7 +38,7 @@ body {
     text-decoration: none;
     font-size: 25px;
     color: white;
-    display: block;
+    display: inline-block;
     transition: 0.3s;
     opacity: 1;
 }
