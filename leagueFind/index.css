@@ -15,7 +15,7 @@ body {
     background-position: center;
     background-attachment: fixed;
     background-size: 100% 100%;
-    font-family: 'Roboto', 'Arial', 'sans-serif';
+    font-family: 'Mukta Malar', sans-serif;
 }
 
 .sidenav {
@@ -41,10 +41,11 @@ body {
 .sidenav a {
     padding: 8px 8px 8px 32px;
     font-size: 25px;
-    color: white;
+    color: #FFFFFF;
     display: inline-block;
     transition: 0.3s;
     opacity: 1;
+    text-decoration: none;
 }
 
 .sidenav a:hover{
